@@ -3,13 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+## About
 
-I am a Deep Learning Engineer at Aquabyte, an Computer Vision and Deep Learning start up based in San Francisco, CA. I started a PhD at Stanford University in the School of Earth, Energy and Environmental Sciences in 2015. I am on a leave of absence from my program until 2019. This leave is helping me explore career options outside of academia. I am currently on a J-1 Academic Training permit that will allow me to work until December 2018 without my employer having to sponsor my visa. 
+I am currently starting my second career and work as a Deep Learning Engineer and AI enthusiast. 
+Previously, I was studying Earth and Environmental sciences in France and California. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
+### Some emigration details
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thomas.hossler@gmail.com](mailto:thomas.hossler@gmail.com)
