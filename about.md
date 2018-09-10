@@ -11,9 +11,10 @@ Previously, I was studying Earth and Environmental sciences in France and Califo
 ### More Information
 
 
-### Some emigration details
+### Some emigration details on
 
-
+I  am a french citizen currently on a leave of absence from my PhD. I am on a J1 visa till 
+December 2018
 
 ### Contact me
 
