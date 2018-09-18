@@ -9,7 +9,7 @@ permalink: /projects/
 ### Synthetic data generation - 2018
 
 More about the project: 
-[Synthetic data](projects/test.md)
+[Synthetic data](projects/syntheticdata.md)
 
 
 ### Stanford Earh Hackathon - Spring 2018
@@ -45,14 +45,16 @@ More about the project:
 ### Eddy detection and tracking - Spring 2013
 
 More about the project: 
-[Eddy trackinga](projects/eddytracking.md)
+[Eddy tracking](projects/eddytracking.md)
 
 
 
 
 # Other
 
-Other projects I do on the side:
+Other projects/hobbies I have on the side:
 * I recently started to work on a 89 GMC Vandura that I am turning into a campervan.
  Some pictures can be found here: [Campvervan building](projects/vanlife.md)
+ * I am an avid climber and I starting to keep track of all my climbs worldwide here: 
+ [climbing map](projects/climbing.md)
  
