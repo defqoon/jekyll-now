@@ -15,7 +15,7 @@ More about the project:
 ### Stanford Earh Hackathon - Spring 2018
 
 More about the project: 
-[Stanford Spring Hackathon 2017](projects/earthhackathon.md)
+[Stanford Spring Hackathon 2018](projects/earthhackathon.md)
 
 
 ### Pattern recognition - Spring 2017
@@ -55,6 +55,6 @@ More about the project:
 Other projects/hobbies I have on the side:
 * I recently started to work on a 89 GMC Vandura that I am turning into a campervan.
  Some pictures can be found here: [Campvervan building](projects/vanlife.md)
- * I am an avid climber and I starting to keep track of all my climbs worldwide here: 
- [climbing map](projects/climbing.md)
+ * I am an avid climber and I recently started to keep track of all my climbs worldwide: 
+ [climbing map](https://drive.google.com/open?id=1dCIL1RhZnToe9UJdgws5VYf8BfVHPv99&usp=sharing)
  
